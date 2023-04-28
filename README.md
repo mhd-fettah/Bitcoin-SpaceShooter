@@ -13,5 +13,3 @@ along with an exciting time-freeze mechanic.
 - When you shoot an enemy, it shrinks by 20% until it disappears
 - Time-slowing ability: as you move, time slows down, and your firepower decreases; 
 however, when you stand still, time speeds up and your firing speed increases.
-
-test
